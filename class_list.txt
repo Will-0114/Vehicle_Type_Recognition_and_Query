@@ -1,0 +1,30 @@
+BMW_7_Series
+BMW_X1
+BMW_X3
+BMW_X4
+BMW_Z4
+Ford_EcoSport
+Ford_Mondeo
+Ford_Mustang
+Ford_NEW FORD FOCUS
+Ford_Ranger
+Honda_City
+Honda_CR-V
+Honda_Fit
+Honda_HR-V
+Honda_Odyssey
+Nissan_ALTIMA
+Nissan_LIVINA
+Nissan_SENTRA
+Nissan_TIIDA
+Nissan_X-TRAIL
+Toyota_ALTIS
+Toyota_COROLLA_CROSS
+Toyota_SIENTA
+Toyota_VIOS
+Toyota_YARIS
+Volkswagen_The Golf R
+Volkswagen_The_Golf_280_TSI_R-Line
+Volkswagen_The_Golf_GTI_Performance
+Volkswagen_The_Golf_Variant_280_TSI_Highline
+Volkswagen_The_Tiguan_330_TSI_Comfortline
